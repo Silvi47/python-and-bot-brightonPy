@@ -4,6 +4,12 @@
 
 This is a sample code for bot integration in python that was delivered in an event held by BrightonPy and Datacove.
 
+## Requirements
+
+- Bot Token ID from Telegram, Discord, and Slack
+- API ID and API Hash from Telegram
+- Authorize Discord Bot permission using this link: [https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=YOUR_PERMISSION_INTEGER&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=YOUR_PERMISSION_INTEGER&scope=bot%20applications.commands)
+
 ## Setup Environment
 
 ### 1. Clone & Install Project
